@@ -1,1 +1,1 @@
-- [Работа] (https://polar-temple-35593.herokuapp.com/)
+- [Работа](https://polar-temple-35593.herokuapp.com/)
