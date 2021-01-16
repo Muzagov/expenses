@@ -1,1 +1,1 @@
-- [Работа] (https://dashboard.heroku.com/apps/polar-temple-35593)
+- [Работа] (https://polar-temple-35593.herokuapp.com/)
